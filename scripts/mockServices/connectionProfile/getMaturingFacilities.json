@@ -1,0 +1,64 @@
+{
+    "resultObject": [
+        [{
+            "facility": "Bussiness Loan Variable - RP",
+            "rate": 13,
+            "balance": 250000,
+            "limit": 7600000,
+            "termYears": 3,
+            "termMonths": 1,
+            "maturityDate": 1470369484530,
+            "accountNumber" : "978987",
+            "bsb" : 185524,
+            "toRollover": true
+        }, {
+            "facility": "Bussiness Loan Variable - RP",
+            "accountNumber" : "78987",
+            "bab":143524,
+            "rate": 13,
+            "balance": 250000,
+            "limit": 7600000,
+            "termYears": 3,
+            "termMonths": 1,
+            "maturityDate": 1470369484530,
+            "toRollover": false
+        }, {
+            "facility": "Bussiness Loan Variable - RP",
+            "accountNumber" : "78987",
+            "bsb" : 143524,
+            "rate": 13,
+            "balance": 250000,
+            "limit": 7600000,
+            "termYears": 3,
+            "termMonths": 1,
+            "maturityDate": 1470369484530,
+            "toRollover": false
+        }],
+        [{
+            "facility": "Bussiness Loan Variable - RP",
+            "accountNumber" : "978987",
+            "bsb" : 154124,
+            "rate": 13,
+            "balance": 250000,
+            "limit": 7600000,
+            "termYears": 3,
+            "termMonths": 1,
+            "maturityDate": 1470369484530,
+            "toRollover": true
+        }, {
+            "facility": "Bussiness Loan Variable - RP",
+            "bsb" : 185524,
+            "rate": 13,
+            "balance": 250000,
+            "limit": 7600000,
+            "termYears": 3,
+            "termMonths": 1,
+            "maturityDate": 1470369484530,
+            "toRollover": false
+        }]
+    ],
+    "errorList": null,
+    "validationResource": null,
+    "valid": true,
+    "callSuccess": true
+}

@@ -1,0 +1,107 @@
+{
+  "resultObject": [
+    {
+      "tableKey": "15",
+      "key": 8,
+      "code": "QLD",
+      "name": "Queensland",
+      "parent": 15,
+      "associate": null,
+      "appliesTo": 0,
+      "isDefaultValue": null,
+      "deleted": false
+    },
+    {
+      "tableKey": "15",
+      "key": 9,
+      "code": "WA",
+      "name": "Western Australia",
+      "parent": 15,
+      "associate": null,
+      "appliesTo": 0,
+      "isDefaultValue": null,
+      "deleted": false
+    },
+    {
+      "tableKey": "15",
+      "key": 10,
+      "code": "NSW",
+      "name": "New South Wales",
+      "parent": 15,
+      "associate": null,
+      "appliesTo": 0,
+      "isDefaultValue": null,
+      "deleted": false
+    },
+    {
+      "tableKey": "15",
+      "key": 11,
+      "code": "VIC",
+      "name": "Victoria",
+      "parent": 15,
+      "associate": null,
+      "appliesTo": 0,
+      "isDefaultValue": null,
+      "deleted": false
+    },
+    {
+      "tableKey": "15",
+      "key": 12,
+      "code": "SA",
+      "name": "South Australia",
+      "parent": 15,
+      "associate": null,
+      "appliesTo": 0,
+      "isDefaultValue": null,
+      "deleted": false
+    },
+    {
+      "tableKey": "15",
+      "key": 13,
+      "code": "NT",
+      "name": "Northern Territory",
+      "parent": 15,
+      "associate": null,
+      "appliesTo": 0,
+      "isDefaultValue": null,
+      "deleted": false
+    },
+    {
+      "tableKey": "15",
+      "key": 14,
+      "code": "ACT",
+      "name": "Australian Capital Territory",
+      "parent": 15,
+      "associate": null,
+      "appliesTo": 0,
+      "isDefaultValue": null,
+      "deleted": false
+    },
+    {
+      "tableKey": "15",
+      "key": 15,
+      "code": "TAS",
+      "name": "Tasmania",
+      "parent": 15,
+      "associate": null,
+      "appliesTo": 0,
+      "isDefaultValue": null,
+      "deleted": false
+    },
+    {
+      "tableKey": "15",
+      "key": 68,
+      "code": "ConnectNow",
+      "name": "Connect Now",
+      "parent": 15,
+      "associate": null,
+      "appliesTo": 0,
+      "isDefaultValue": null,
+      "deleted": false
+    }
+  ],
+  "errorList": null,
+  "validationResource": null,
+  "valid": true,
+  "callSuccess": true
+}
